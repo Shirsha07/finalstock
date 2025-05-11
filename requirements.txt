@@ -1,0 +1,13 @@
+streamlit
+pandas
+plotly
+yfinance
+openpyxl
+ta
+mysql-connector-python
+PyPDF2
+langchain
+faiss-cpu  
+langchain-community
+openai
+tiktoken
