@@ -202,7 +202,7 @@ with st.sidebar:
     st.header("Interact with Chatbot")
     pdf_file = st.file_uploader("Choose a PDF file", type="pdf")
 
-OPENAI_API_KEY = "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"  # Replace with your actual key securely
+OPENAI_API_KEY = "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"  # Replace with your actual key securely
 
 if pdf_file:
     pdf_reader = PdfReader(pdf_file)
