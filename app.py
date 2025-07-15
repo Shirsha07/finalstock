@@ -201,7 +201,6 @@ st.subheader("🧠 Stock Market Chatbot")
 with st.sidebar:
     st.header("Interact with Chatbot")
     pdf_file = st.file_uploader("Choose a PDF file", type="pdf")
-
 OPENAI_API_KEY = "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"  # Replace with your actual key securely
 
 if pdf_file:
